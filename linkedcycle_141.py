@@ -11,5 +11,10 @@ class Solution:
             slow=slow.next
             fast=fast.next.next
             if slow==fast:
+<<<<<<< HEAD
              return True
         return False
+=======
+            return True
+        return False
+>>>>>>> c30dddd7fe9e8c619895e6ec545044794c681f7b
